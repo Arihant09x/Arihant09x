@@ -2,9 +2,14 @@
 <h1 align="center">Hi 👋, I'm Arihant Chougule</h1>
 <h3 align="center">Crafting Seamless Web Experiences with Code & Creativity</h3>
 <div style="display: flex; align-items: center; justify-content: space-between;">
+<div>
+    <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" 
+         alt="Coding GIF" 
+         width="200"/>
+  </div>
   
   <div style="flex: 1;">
-    <p>💫 About Me</p>
+    <p style="font-size:30px">💫 About Me</p>
     <ul>
       <li>✨ Currently working on web projects</li>
       <li>🤟 Open to collaborating on <b>Web Development</b> projects</li>
@@ -14,11 +19,7 @@
     </ul>
   </div>
 
-  <div>
-    <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" 
-         alt="Coding GIF" 
-         width="200"/>
-  </div>
+  
 
 </div>
 
