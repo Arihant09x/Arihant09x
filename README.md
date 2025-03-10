@@ -3,23 +3,19 @@
 <h3 align="center">Crafting Seamless Web Experiences with Code & Creativity</h3>
 
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
-
-<div style="width: 400px; align-tems:left;">
-
-💫 About Me
-
-✨ Currently working on web projects  
- 🤟 Open to collaborating on **Web Development** projects  
-🌐 Exploring **Next.js** and **TypeScript** for better performance and scalability  
-🔍 Ask me about **Frontend Development**, **Optimizing Web Performance**  
- ⚡ Fun fact - **I believed console.log() was the ultimate debugger — until I met `console.error()`.**  
+<div style="flex: 1; text-align: left;"> 💫 About Me
+   ✨ Currently working on web projects 
+   🤟 Open to collaborating on <b>Web Development</b> projects 
+   🌐 Exploring <b>Next.js</b> and <b>TypeScript</b> for better performance and scalability 
+   🔍 Ask me about <b>Frontend Development</b>, <b>Optimizing Web Performance</b> 
+    ⚡ Fun fact - <b>I believed console.log() was the ultimate debugger — until I met `console.error()`.</b> 
 
 </div>
-
 <div>
-  <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding GIF" width="200"/>
+        <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding GIF" width="200"/>
+    </div>
 </div>
-</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arihant-chougule-50082a33a/?trk=opento_sprofile_details) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ArihantChougul6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arihantc677@gmail.com) 
