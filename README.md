@@ -16,13 +16,14 @@
   </div>
 
   <!-- Image on the right -->
-  <div>
+  <div align="right">
     <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" 
          alt="Coding GIF" 
          width="200"/>
   </div>
 
 </div>
+
 
 
 
