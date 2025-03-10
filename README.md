@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding GIF" width="200"/>
 </div>
 
-<div align="left">
+<div align="left" style="max-width:400px">
 💫 About Me
 
 ✨ Currently working on web projects  
