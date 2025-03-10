@@ -1,10 +1,10 @@
 [![MasterHead](Header.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Arihant Chougule</h1>
 <h3 align="center">Crafting Seamless Web Experiences with Code & Creativity</h3>
-<div style="display: flex; flex-direction: row; align-items: center; text-align: center;">
+<div style="display: flex; align-items: center;">
   
-  <!-- Text on top -->
-  <div style="width: 100%;">
+  <!-- Text on the left -->
+  <div style="flex: 1; text-align: left;">
     <h1 style="font-size: 40px; margin: 0;">💫 About Me</h1>
     <ul style="margin: 0; padding: 0; list-style-position: inside;">
       <li>✨ Currently working on web projects</li>
@@ -15,11 +15,12 @@
     </ul>
   </div>
 
-  <!-- Image below -->
-  <div align="right">
+  <!-- Image on the right -->
+  <div style="flex: 0 0 300px; text-align: right;">
     <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" 
          alt="Coding GIF" 
-         width="300"/>
+         width="300" 
+         style="border-radius: 10px;"/>
   </div>
 
 </div>
