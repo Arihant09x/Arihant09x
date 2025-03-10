@@ -1,7 +1,7 @@
 [![MasterHead](Header.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Arihant Chougule</h1>
 <h3 align="center">Crafting Seamless Web Experiences with Code & Creativity</h3>
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+<div style="display: flex; flex-direction: row; align-items: center; text-align: center;">
   
   <!-- Text on top -->
   <div style="width: 100%;">
@@ -16,7 +16,7 @@
   </div>
 
   <!-- Image below -->
-  <div>
+  <div align="right">
     <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" 
          alt="Coding GIF" 
          width="300"/>
