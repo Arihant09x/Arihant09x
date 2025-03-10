@@ -4,11 +4,11 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   
   <!-- Image on the right -->
-  <div>
+  <div style="display: flex">
     <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" 
          alt="Coding GIF" 
          width="200"/>
-  </div>
+  
   
   <!-- Text on the left -->
   <div style="flex: 1; text-align: left;">
@@ -21,7 +21,7 @@
       <li>⚡ Fun fact - <b>I believed <code>console.log()</code> was the ultimate debugger — until I met <br/> <code>console.error()</code>.</b></li>
     </ul>
   </div>
-
+</div>
 </div>
 
 
