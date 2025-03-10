@@ -4,11 +4,12 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   
   <!-- Image on the right -->
-  <div style="display: flex">
+  <div style="display: flex;">
+  <div style="display: flex; " align="right">
     <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" 
          alt="Coding GIF" 
          width="200"/>
-  
+  </div>
   
   <!-- Text on the left -->
   <div style="flex: 1; text-align: left;">
