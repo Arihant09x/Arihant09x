@@ -15,7 +15,7 @@
       <li>🤟 Open to collaborating on <b>Web Development</b> projects</li>
       <li>🌐 Exploring <b>Next.js</b> and <b>TypeScript</b> for better performance and scalability</li>
       <li>🔍 Ask me about <b>Frontend Development</b>, <b>Optimizing Web Performance</b></li>
-      <li>⚡ Fun fact - <b>I believed <code>console.log()</code> was the ultimate debugger — until I met <code>console.error()</code>.</b></li>
+      <li>⚡ Fun fact - <b>I believed <code>console.log()</code> was the ultimate debugger — until I met <br/> <code>console.error()</code>.</b></li>
     </ul>
   </div>
 
