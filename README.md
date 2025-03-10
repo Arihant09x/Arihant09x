@@ -6,13 +6,13 @@
 
 <div style="width: 400px; text-align: left;">
 
-## 💫 About Me
+💫 About Me
 
-- ✨ Currently working on web projects  
-- 🤟 Open to collaborating on **Web Development** projects  
-- 🌐 Exploring **Next.js** and **TypeScript** for better performance and scalability  
-- 🔍 Ask me about **Frontend Development**, **Optimizing Web Performance**  
-- ⚡ Fun fact - **I believed console.log() was the ultimate debugger — until I met `console.error()`.**  
+✨ Currently working on web projects  
+ 🤟 Open to collaborating on **Web Development** projects  
+🌐 Exploring **Next.js** and **TypeScript** for better performance and scalability  
+🔍 Ask me about **Frontend Development**, **Optimizing Web Performance**  
+ ⚡ Fun fact - **I believed console.log() was the ultimate debugger — until I met `console.error()`.**  
 
 </div>
 
