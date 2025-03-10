@@ -1,16 +1,14 @@
-[![MasterHead](github-header-image(1).png)](https://rishavchanda.io)
+[![MasterHead](github-header-image.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Arihant Chougule</h1>
 <h3 align="center">Crafting Seamless Web Experiences with Code & Creativity</h3>
 
 <table>
-<tr>
-<td>
+
+
 
 # 💫 About Me:
 ✨ Currently working on web projects <br>👯 Open to collaborating on **Web Development** projects  <br>🌐 Exploring **Next.js** and **TypeScript** for better performance and scalability  <br>💬 Ask me about **Frontend Development**, **Optimizing Web Performance** <br>⚡ Fun fact - **I believed console.log() was the ultimate debugger — until I met console.error().**<br>
 
-</td>
-<td>
 <p align="center">
 <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="arihant09x" width="300"/>
 </p>
