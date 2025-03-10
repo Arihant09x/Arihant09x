@@ -3,14 +3,6 @@
 <h3 align="center">Crafting Seamless Web Experiences with Code & Creativity</h3>
 <div style="display: flex; align-items: center; justify-content: space-between;">
   
-  <!-- Image on the right -->
-  <div style="display: flex;">
-  <div style="display: flex; " align="right">
-    <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" 
-         alt="Coding GIF" 
-         width="200"/>
-  </div>
-  
   <!-- Text on the left -->
   <div style="flex: 1; text-align: left;">
     <h1 style="font-size: 40px;">💫 About Me</h1>
@@ -22,8 +14,16 @@
       <li>⚡ Fun fact - <b>I believed <code>console.log()</code> was the ultimate debugger — until I met <br/> <code>console.error()</code>.</b></li>
     </ul>
   </div>
+
+  <!-- Image on the right -->
+  <div>
+    <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" 
+         alt="Coding GIF" 
+         width="200"/>
+  </div>
+
 </div>
-</div>
+
 
 
 
