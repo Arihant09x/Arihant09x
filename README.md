@@ -13,7 +13,7 @@
 
 <div>
 <p align="center">
-<img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="arihant09x" width="300"/>
+<img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="arihant09x" width="100"/>
 </p>
 </div>
 </div>
