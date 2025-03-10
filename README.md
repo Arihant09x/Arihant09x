@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Arihant Chougule</h1>
 <h3 align="center">Crafting Seamless Web Experiences with Code & Creativity</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=arihant09x&label=Profile%20views&color=0e75b6&style=flat](https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif)" alt="arihant09x" /> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="arihant09x" /> </p>
 
 # 💫 About Me:
 🔭 Currently working on web projects <br>👯 Open to collaborating on **Web Development** projects  <br>🌐 Exploring **Next.js** and **TypeScript** for better performance and scalability  <br>💬 Ask me about **Frontend Development**,**Optimizing Web Performance** <br>⚡ Fun fact - **I believed console.log() was the ultimate debugger — until I met console.error().**<br>
