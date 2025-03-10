@@ -2,14 +2,17 @@
 <h1 align="center">Hi 👋, I'm Arihant Chougule</h1>
 <h3 align="center">Crafting Seamless Web Experiences with Code & Creativity</h3>
 <div style="display: flex; align-items: center; justify-content: space-between;">
-<div align="right">
+  
+  <!-- Image on the right -->
+  <div>
     <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" 
          alt="Coding GIF" 
          width="200"/>
   </div>
   
-  <div style="flex: 1;">
-    <p style=" font-size: 40px;">💫 About Me</p>
+  <!-- Text on the left -->
+  <div style="flex: 1; text-align: left;">
+    <h1 style="font-size: 40px;">💫 About Me</h1>
     <ul>
       <li>✨ Currently working on web projects</li>
       <li>🤟 Open to collaborating on <b>Web Development</b> projects</li>
@@ -18,8 +21,6 @@
       <li>⚡ Fun fact - <b>I believed <code>console.log()</code> was the ultimate debugger — until I met <br/> <code>console.error()</code>.</b></li>
     </ul>
   </div>
-
-  
 
 </div>
 
