@@ -1,25 +1,20 @@
 [![MasterHead](Header.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Arihant Chougule</h1>
 <h3 align="center">Crafting Seamless Web Experiences with Code & Creativity</h3>
-<div>
+<div align="right">
   <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding GIF" width="200"/>
 </div>
-<div align="center" style="display: flex; align-items: center; gap: 20px;">
 
-<div style="width: 400px; align-tems:left;">
-
+<div align="left">
 💫 About Me
 
 ✨ Currently working on web projects  
- 🤟 Open to collaborating on **Web Development** projects  
+🤟 Open to collaborating on **Web Development** projects  
 🌐 Exploring **Next.js** and **TypeScript** for better performance and scalability  
 🔍 Ask me about **Frontend Development**, **Optimizing Web Performance**  
- ⚡ Fun fact - **I believed console.log() was the ultimate debugger — until I met `console.error()`.**  
-
+⚡ Fun fact - **I believed `console.log()` was the ultimate debugger — until I met `console.error()`.**  
 </div>
 
-
-</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arihant-chougule-50082a33a/?trk=opento_sprofile_details) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ArihantChougul6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arihantc677@gmail.com) 
