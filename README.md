@@ -1,19 +1,27 @@
 [![MasterHead](Header.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Arihant Chougule</h1>
 <h3 align="center">Crafting Seamless Web Experiences with Code & Creativity</h3>
-<div align="right">
-  <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding GIF" width="200"/>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  
+  <div style="flex: 1;">
+    <p>💫 About Me</p>
+    <ul>
+      <li>✨ Currently working on web projects</li>
+      <li>🤟 Open to collaborating on <b>Web Development</b> projects</li>
+      <li>🌐 Exploring <b>Next.js</b> and <b>TypeScript</b> for better performance and scalability</li>
+      <li>🔍 Ask me about <b>Frontend Development</b>, <b>Optimizing Web Performance</b></li>
+      <li>⚡ Fun fact - <b>I believed <code>console.log()</code> was the ultimate debugger — until I met <code>console.error()</code>.</b></li>
+    </ul>
+  </div>
+
+  <div>
+    <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" 
+         alt="Coding GIF" 
+         width="200"/>
+  </div>
+
 </div>
 
-<div align="left" style="max-width:400px">
-💫 About Me
-
-✨ Currently working on web projects  
-🤟 Open to collaborating on **Web Development** projects  
-🌐 Exploring **Next.js** and **TypeScript** for better performance and scalability  
-🔍 Ask me about **Frontend Development**, **Optimizing Web Performance**  
-⚡ Fun fact - **I believed `console.log()` was the ultimate debugger — until I met `console.error()`.**  
-</div>
 
 
 ## 🌐 Socials:
