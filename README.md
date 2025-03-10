@@ -1,7 +1,7 @@
 [![MasterHead](Header.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Arihant Chougule</h1>
 <h3 align="center">Crafting Seamless Web Experiences with Code & Creativity</h3>
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex;  justify-content: flex-end;">
   
   <!-- Text on the left -->
   <div style="flex: 1; text-align: left;">
