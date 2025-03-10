@@ -16,7 +16,7 @@
   </div>
 
   <!-- Image on the right -->
-  <div align="right">
+  <div align="right" style="margin-top:-30px">
     <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" 
          alt="Coding GIF" 
          width="200"/>
