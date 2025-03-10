@@ -4,7 +4,7 @@
 
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
 
-<div style="width: 400px; text-align: left;">
+<div style="width: 400px; align-tems:left;">
 
 💫 About Me
 
