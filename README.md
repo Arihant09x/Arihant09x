@@ -4,7 +4,7 @@
 <div style="display: flex;  justify-content: flex-end;">
   
   <!-- Text on the left -->
-  <div style="flex: 1; text-align: left;">
+  <div style="flex: 1; text-align: left; margin-top:200px">
     <h1 style="font-size: 40px;">💫 About Me</h1>
     <ul>
       <li>✨ Currently working on web projects</li>
