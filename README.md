@@ -1,28 +1,29 @@
 [![MasterHead](Header.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Arihant Chougule</h1>
 <h3 align="center">Crafting Seamless Web Experiences with Code & Creativity</h3>
-<div style="display: flex;  justify-content: flex-end;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
   
   <!-- Text on the left -->
-  <div style="flex: 1; text-align: left; margin-top:200px">
-    <h1 style="font-size: 40px;">💫 About Me</h1>
-    <ul>
+  <div style="flex: 1; text-align: left;">
+    <h1 style="font-size: 40px; margin: 0;">💫 About Me</h1>
+    <ul style="margin: 0; padding: 0; list-style-position: inside;">
       <li>✨ Currently working on web projects</li>
       <li>🤟 Open to collaborating on <b>Web Development</b> projects</li>
       <li>🌐 Exploring <b>Next.js</b> and <b>TypeScript</b> for better performance and scalability</li>
       <li>🔍 Ask me about <b>Frontend Development</b>, <b>Optimizing Web Performance</b></li>
-      <li>⚡ Fun fact - <b>I believed <code>console.log()</code> was the ultimate debugger — until I met <br/> <code>console.error()</code>.</b></li>
+      <li>⚡ Fun fact - <b>I believed <code>console.log()</code> was the ultimate debugger — until I met <code>console.error()</code>.</b></li>
     </ul>
   </div>
 
   <!-- Image on the right -->
-  <div align="right">
+  <div>
     <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" 
          alt="Coding GIF" 
          width="300"/>
   </div>
 
 </div>
+
 
 
 
